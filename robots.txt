@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://fugogawaqee.pages.dev/sitemap.xml
